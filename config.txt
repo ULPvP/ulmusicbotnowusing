@@ -1,0 +1,3 @@
+token = process.env.token
+owner = process.emv.owner
+prefix = process.env.prefix
